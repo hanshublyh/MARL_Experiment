@@ -1,2 +1,2 @@
 # MARL_Experiment
-The readme.txt is comming soon
+The instruction for the code is comming soon.
